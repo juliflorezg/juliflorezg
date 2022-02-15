@@ -1,5 +1,6 @@
 <h1 align="left">Hello there! I'm Julian</h1>
-<h2 align="left">Frontend development enthusiast</h2>
+<h3 align="left">Aeronautical Engineer</h3>
+<h3 align="left">Frontend development enthusiast</h3>
 
 
 - 🍃 I love creating new things
