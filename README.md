@@ -3,7 +3,7 @@
 
 
 - 🍃 I love creating new things
-- 📖 I’m currently mastering React JS
+-  ⚛ I’m currently mastering React JS
 - ✨ I enjoy writing some CSS and HTML as well! 
 - 🏋️‍♂️ I also do some workouts from time to time!
 
