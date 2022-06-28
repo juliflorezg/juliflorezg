@@ -1,10 +1,9 @@
 <h1 align="left">Hello there! I'm Julian</h1>
-<h3 align="left">Aeronautical Engineer</h3>
-<h3 align="left">Frontend development enthusiast</h3>
+<h3 align="left">Engineer & Frontend development enthusiast</h3>
 
 
 - 🍃 I love creating new things
-- 📖 I’m currently mastering JavaScript
+- 📖 I’m currently mastering React JS
 - ✨ I enjoy writing some CSS and HTML as well! 
 - 🏋️‍♂️ I also do some workouts from time to time!
 
