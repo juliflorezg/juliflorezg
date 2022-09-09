@@ -3,8 +3,9 @@
 
 
 - 🍃 I love creating new things
--  ⚛ I’m currently mastering React JS
+-  ⚛ I’m currently learning Next JS
 - ✨ I enjoy writing some CSS and HTML as well! 
+- 🔥  My favorite stack is React + TailwindCSS + TypeScript
 - 🏋️‍♂️ I also do some workouts from time to time!
 
 
