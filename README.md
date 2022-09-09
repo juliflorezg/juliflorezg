@@ -28,7 +28,11 @@
 </p>
 
 <h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/julian-florezg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+<div>
+  <a href="https://www.linkedin.com/in/julian-florezg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="50"/>
+  </a>
+  <p>Send me an email ;) => <a mailto="forezjuli08@hotmail.com">forezjuli08@hotmail.com</a></p>
+</div>
 
 <!--
 **juliflorezg/juliflorezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
