@@ -31,8 +31,8 @@
 <div>
   <a href="https://www.linkedin.com/in/julian-florezg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="50"/>
   </a>
-  Send me an email ;)
-  [email](mailto:forezjuli08@hotmail.com)
+  <p><a href="forezjuli08@hotmail.com">Email</a><p>
+  
 </div>
 
 <!--
