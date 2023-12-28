@@ -3,10 +3,10 @@
 
 
 - 🍃 I love creating new things
--  ⚛ I’m currently learning Next JS
+-  ⚛ I’m currently learning backend with Golang / MySQL
 - ✨ I enjoy writing some CSS and HTML as well! 
-- 🔥  My favorite stack is React + TailwindCSS + TypeScript
-- 🏋️‍♂️ I also do some workouts from time to time!
+- 🔥  My favorite stack is React + TailwindCSS + TypeScript + Golang + MySQL
+- 🏋️‍♂️ I also love working out on a consistent basis!
 
 
 
