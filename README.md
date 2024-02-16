@@ -32,7 +32,7 @@
 
 <h3>Let's Connect:</h3>
 <div>
-  <a href="https://www.linkedin.com/in/julian-florezg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="50"/>
+  <a href="https://www.linkedin.com/in/julian-florez-guzman/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="50"/>
   </a>
   <p><a href="mailto:forezjuli08@hotmail.com">How to reach me?</a><p>
   
